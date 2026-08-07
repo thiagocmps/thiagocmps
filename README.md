@@ -8,7 +8,7 @@
 
 <br>
 
-<div style="display: flex; align-items: top; gap: 10px;">
+<div style="display: flex; align-items: flex-start; gap: 10px;">
 
 <div>
   <p>
