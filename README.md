@@ -18,8 +18,6 @@
     passionate about <b>servers</b>, <b>Linux</b>, and anything in this <b>universe</b>,
     aspiring to become a <b>DevOps Engineer</b>.
   </p>
-
-  <p><i>Feel free to DM me on <a href="https://www.instagram.com/thiago__cmps/">instagram</a>!</i></p>
 </div>
 
 <img
@@ -46,7 +44,6 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0B0C10)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
 
 **Frontend / Backend**
 
@@ -54,7 +51,6 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=ffffff)](https://flutter.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=ffffff)](https://supabase.com/)
 
 **Tools & Infra**
 
